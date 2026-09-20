@@ -42,3 +42,10 @@ We do not have access to the records stored on your device or in your private iC
 ### How can I suggest a feature?
 
 Email us with your idea and a brief explanation of how it would help you use Bill Planner.
+
+
+---
+layout: default
+title: Bill Planner Support
+permalink: /support/
+---
