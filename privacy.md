@@ -54,4 +54,4 @@ We may update this policy when the app or its data practices change. The latest 
 
 For privacy questions or requests concerning support correspondence, contact:
 
-[SUPPORT EMAIL]
+clear-bill-planner@outlook.com
